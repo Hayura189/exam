@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <id>single</id>
+    <description>A room assigned to one person. May have one or more beds.</description>
+  </row>
+  <row>
+    <index>1</index>
+    <id>twin</id>
+    <description>A room with two twin beds. May be occupied by one or more people.</description>
+  </row>
+  <row>
+    <index>2</index>
+    <id>double</id>
+    <description>A room assigned to two people. May have one or more beds.</description>
+  </row>
+  <row>
+    <index>3</index>
+    <id>family</id>
+    <description>A room that can accommodate three persons and has been fitted with three twin beds, one double bed and one twin bed or two double beds.</description>
+  </row>
+</data>
